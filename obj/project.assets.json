@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Darwin\\Documents\\ESTRUCTURA DE DATOS\\semana2\\semana2.csproj",
+      "projectUniqueName": "C:\\Users\\Darwin\\Documents\\GitHub\\ESTRUCTURA-DE-DATOS-2025\\semana2.csproj",
       "projectName": "semana2",
-      "projectPath": "C:\\Users\\Darwin\\Documents\\ESTRUCTURA DE DATOS\\semana2\\semana2.csproj",
+      "projectPath": "C:\\Users\\Darwin\\Documents\\GitHub\\ESTRUCTURA-DE-DATOS-2025\\semana2.csproj",
       "packagesPath": "C:\\Users\\Darwin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Darwin\\Documents\\ESTRUCTURA DE DATOS\\semana2\\obj\\",
+      "outputPath": "C:\\Users\\Darwin\\Documents\\GitHub\\ESTRUCTURA-DE-DATOS-2025\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Darwin\\AppData\\Roaming\\NuGet\\NuGet.Config"
